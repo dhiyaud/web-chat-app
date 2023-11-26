@@ -17,7 +17,7 @@ Web Chat App by [Dhiya Ulhaq Dewangga](https://github.com/dhiyaud)
 - Run development environment by running command `yarn dev`
 - Happy Coding :smiley:
 
-## Submissions Test
+## Submissions Questions Answers
 
 - Date of submission
   - Sunday, 26th November 2023.
@@ -28,7 +28,7 @@ Web Chat App by [Dhiya Ulhaq Dewangga](https://github.com/dhiyaud)
 
 
 - Time spent
-  - Around 25 hours.
+  - Around 18 hours.
 
 
 - Assumptions made
